@@ -1,9 +1,9 @@
 # sshFilter
-This is a simple packet filter firewall module that filters for and blocks any outgoing packet to port number 22 (SSH)
+This is a packet filter firewall module that filters for and blocks any outgoing packet to port number 22 (SSH)
 
-# Simple Packet Filter Firewall (sshFilter)
+# Packet Filter Firewall (sshFilter)
 
-This is a basic packet filter firewall implementation that is designed to block all outgoing packets on port 22 (SSH). This simple tool can be useful for controlling network access on a system by filtering outgoing traffic based on port numbers.
+This is a packet filter firewall implementation that is designed to block all outgoing packets on port 22 (SSH). This tool can be useful for controlling network access on a system by filtering outgoing traffic based on port numbers.
 
 ## Features
 
